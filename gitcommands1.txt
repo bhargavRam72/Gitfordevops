@@ -9,7 +9,7 @@
 	2. Git rm [filename] or git rm . {to removes the complete folder}
 	3. Git add . {to add the complete files in the folder}{to move the file to stagging}
 	
-	
+	hi edit to push another change****
 	
 	
 
