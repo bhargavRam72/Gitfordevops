@@ -1,0 +1,17 @@
+	1. Git init
+	2. Git commit -m "message"
+	3. To add files to the repository in the GitHub:--
+           git remote add origin [git url]
+	Git remote set-url origin [key]@link_of_url
+	& git push origin master
+	
+	1. Git restore [filename]
+	2. Git rm [filename] or git rm . {to removes the complete folder}
+	3. Git add . {to add the complete files in the folder}{to move the file to stagging}
+	
+	
+	
+	
+
+	
+	
