@@ -1,9 +1,9 @@
 	1. Git init
 	2. Git commit -m "message"
 	3. To add files to the repository in the GitHub:--
-           git remote add origin [git url]
-	Git remote set-url origin [key]@link_of_url
-	& git push origin master
+          Step : 1 git remote add origin [git url]                       {This is to spcify the github path in the local}
+	      Step : 2  git remote set-url origin https://[key]@link_of_url  {This wil set the local and guthub repository connected.}
+	&     Step : 3      git push origin master
 	
 	1. Git restore [filename]
 	2. Git rm [filename] or git rm . {to removes the complete folder}
